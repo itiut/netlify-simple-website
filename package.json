@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/itiut/netlify-simple-website/issues"
   },
-  "homepage": "https://github.com/itiut/netlify-simple-website"
+  "homepage": "https://github.com/itiut/netlify-simple-website",
+  "devDependencies": {
+    "netlify-cli": "^1.0.2"
+  }
 }
