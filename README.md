@@ -8,6 +8,7 @@ A simple website hosted on netlify at http://itiut-netlify-simple-website.netlif
 
 ### プランの違い
 #### free ~
+- 複数サイト
 - カスタムドメイン
 - カスタムドメインでHTTPS
 - jsスニペットを全ページに挿入
